@@ -1,0 +1,29 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+**/out
+**/overlays/
+**/test/
+**/applicationContext-test.xml
+**/spring/applicationContext-redis.xml
+**/mycnf.properties
+**/emp*.json
+**/lib/kindeditor/
+**/view/prod/
+
+# Mac
+.DS_Store
+
+# Maven
+**/log/
+**/target
+**/*.log
+**/tmp
+**/.tmp
+**/bin/**
